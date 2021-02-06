@@ -1,11 +1,11 @@
 ### Hi there, I'm Gustavo 👋
 
-I'm a Front End enthusiast, currently working with Back End at Indra Company and graduating at SENAC University Centre.
+Front End enthusiast, currently working with Back End at Indra Company and graduating at SENAC University Centre.
 
 **Software Developer**
 
-- 🔭 I’m currently working with **C# .NET**
-- 🌱 I’m currently learning **React, React Native, styled-components, Node.js, TypeScript**
+- 🔭 Working with **C# .NET**.
+- 🌱 Learning **React, React Native, styled-components, Node.js, TypeScript**
 - ⚡ Fun fact: I love teaching.
 
 ### Main technologies:
@@ -18,9 +18,9 @@ I'm a Front End enthusiast, currently working with Back End at Indra Company and
 <code><img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tava1&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
 
 ### Connect with Me
 
 <a href="">Linkedin</a>
-
 

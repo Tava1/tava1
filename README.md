@@ -1,6 +1,6 @@
 ## Hi there, I'm Gustavo 👋
 
-Front End enthusiast, currently working with Back End at Indra Company and graduating at SENAC University Centre.
+Front End enthusiast, currently working with Back End at Indra Company and graduating at SENAC University Center.
 
 ---
 

@@ -1,12 +1,16 @@
-### Hi there, I'm Gustavo 👋
+## Hi there, I'm Gustavo 👋
 
 Front End enthusiast, currently working with Back End at Indra Company and graduating at SENAC University Centre.
 
-**Software Developer**
+---
+
+### Software Developer
 
 - 🔭 Working with **C# .NET**.
 - 🌱 Learning **React, React Native, styled-components, Node.js, TypeScript**
 - ⚡ Fun fact: I love teaching.
+
+---
 
 ### Main technologies:
 

@@ -1,12 +1,12 @@
 ## Hi there, I'm Gustavo 👋
 
-Front End enthusiast, currently working with Back End at Indra Company and graduating at SENAC University Center.
+Front End enthusiast, currently working at Softwrap and graduating at SENAC University Center.
 
 ---
 
 ### Software Developer
 
-- 🔭 Working with **C# .NET**.
+- 🔭 Working with **JavaScript**.
 - 🌱 Learning **React, React Native, styled-components, Node.js, TypeScript**
 - ⚡ Fun fact: I love teaching.
 

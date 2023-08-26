@@ -1,14 +1,16 @@
-## Hi there, I'm Gustavo 👋
+Hey there! 👋 I'm Gustavo Santos, front-end engineer currently on a coding adventure at 77Sol.
 
-Front End enthusiast, currently working at Softwrap and graduating at SENAC University Center.
+🌟 I've got a tech background from IT Technology diploma 🎓 and a degree in Analysis and Systems Development from the University.
 
 ---
 
-### Software Developer
+### Wondering about my tech jam? Here's the lowdown:
 
-- 🔭 Working with **JavaScript**.
-- 🌱 Learning **React, React Native, styled-components, Node.js, TypeScript**
-- ⚡ Fun fact: I love teaching.
+🌟 JavaScript
+📝 TypeScript
+⚛️ React
+🔮 Next.js
+🌳 Node.js
 
 ---
 

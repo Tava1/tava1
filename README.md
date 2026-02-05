@@ -11,6 +11,7 @@ Hey there! 👋 I'm Gustavo Santos, front-end engineer currently on a coding adv
 ⚛️ React
 🔮 Next.js
 🌳 Node.js
+🤖 AI
 
 ---
 
